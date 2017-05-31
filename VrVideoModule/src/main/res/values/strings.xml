@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">RvVideo</string>
+    <string name="exo_play_error_hint">播放异常,视频地址异常，或者网络不可用</string>
+</resources>
